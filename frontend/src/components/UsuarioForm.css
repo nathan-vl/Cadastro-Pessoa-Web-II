@@ -1,0 +1,15 @@
+.form {
+  padding: 1em;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.btns > * {
+  margin: 0.5em;
+}
+
+li > * {
+  margin-right: 5px;
+}

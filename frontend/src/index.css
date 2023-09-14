@@ -1,0 +1,14 @@
+button {
+  padding: 0.5rem 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3em;
+}
+
+.btn {
+  cursor: pointer;
+}
